@@ -1,0 +1,8 @@
+NUGET
+  remote: http://api.nuget.org/v3/index.json
+    FSharp.TypeProviders.StarterPack (1.1.3.88)
+
+GROUP Build
+NUGET
+  remote: http://api.nuget.org/v3/index.json
+    FAKE (4.29.2)
