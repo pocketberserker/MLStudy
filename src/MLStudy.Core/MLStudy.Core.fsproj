@@ -59,6 +59,7 @@
     <Compile Include="DebugProvidedTypes.fs">
       <Paket>True</Paket>
     </Compile>
+    <Compile Include="FizzBuzzProvider.fs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
